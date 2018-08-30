@@ -2,7 +2,7 @@
 
 ![logo](logo/bleBird-medium.png)
 
-## Why ?
+## Motivation
 Having been led by various social network and seen something more and more limited in single views? While this project is built to change the condition.  
 This project aims at letting you see more various opinions, both voted up and down by othes, and want to provide the users more control over what they want to see and what they can see.  
 
@@ -22,3 +22,6 @@ To let this project more close to its goals, any issues, bug reports and PRs wil
 ## How to use?
 
 ## How to deploy?
+
+## contributing
+see [Contributing](CONTRIBUTING.md)
