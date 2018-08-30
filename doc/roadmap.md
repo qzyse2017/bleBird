@@ -9,3 +9,8 @@
 ## v0.0.2
 
 ## distributed storage
+
+## Doc
+- [ ] contributing guideline
+- [ ] Add wiki page
+- [ ] design some issue tags
