@@ -11,6 +11,7 @@
 ## Function Programming version
 use haskell to write backend and clojurescript + lein-figwheel + reagent to write frontend. All in FP! ! ! ~
 Hoping I can do it.😭😭😭 Too many todo items have been on my todo list.
+Make a flag here! ! ! I should new a repository before 1st, Oct, 2018 and implement simple features before 2nd, Oct, 2018. If not so, I should not eat any food for these two deadlines.😭
 
 ## distributed storage
 
