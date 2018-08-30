@@ -8,6 +8,10 @@
 
 ## v0.0.2
 
+## Function Programming version
+use haskell to write backend and clojurescript + lein-figwheel + reagent to write frontend. All in FP! ! ! ~
+Hoping I can do it.😭😭😭 Too many todo items have been on my todo list.
+
 ## distributed storage
 
 ## Doc
