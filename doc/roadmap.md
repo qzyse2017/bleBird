@@ -19,3 +19,5 @@ Make a flag here! ! ! I should new a repository before 1st, Oct, 2018 and implem
 - [ ] contributing guideline
 - [ ] Add wiki page
 - [ ] design some issue tags
+- [ ] Add projects page
+- [ ] Add template for issue and pull request
