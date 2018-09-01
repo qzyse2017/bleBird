@@ -5,8 +5,10 @@
 - [ ] user posts
 - [ ] search engine
 - [ ] sorting algorithms
+- [ ] https connection
 
 ## v0.0.2
+- [ ] distributed database
 
 ## Function Programming version
 use haskell to write backend and clojurescript + lein-figwheel + reagent to write frontend. All in FP! ! ! ~
