@@ -9,11 +9,8 @@
 
 ## v0.0.2
 - [ ] distributed database
-
-## Function Programming version
-use haskell to write backend and clojurescript + lein-figwheel + reagent to write frontend. All in FP! ! ! ~
-Hoping I can do it.😭😭😭 Too many todo items have been on my todo list.
-Make a flag here! ! ! I should new a repository before 1st, Oct, 2018 and implement simple features before 2nd, Oct, 2018. If not so, I should not eat any food for these two deadlines.😭
+- [ ] design search apis for the user to better search(`:(`, seems hard...)
+- [ ] let the database be pluggable, you can choose a proper database yourself, design some api for the top level to call, each database, if needed to be used, should implement these interfaces first(though I do not think I can do this work well now `:(`).
 
 ## distributed storage
 
