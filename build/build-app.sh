@@ -3,7 +3,7 @@
 OUTPUT_DIR="$(pwd)/dist"
 
 mkdir -p $OUTPUT_DIR && \
-    cd app && \
+    cd webb-app && \
     echo "Installing app depencies, wait please..." && \
     npm install && \
     echo "Building app..." && \
