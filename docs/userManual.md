@@ -17,3 +17,15 @@ run
 ```shell
 $ ./build/build-all.sh
 ```
+
+
+## Configure the database
+set your configuration for database in a file and pass the filename as a parameter while starting the program, e.g. you may use `db_conf.yaml` and run
+
+```shell
+$ dist/server db_conf.yaml
+```
+
+replace the db_conf.yaml with with file you have written configuration in, and you need to provide the necessary infomation as `db_conf.yaml` has written.
+//TODO -- add some more details
+
